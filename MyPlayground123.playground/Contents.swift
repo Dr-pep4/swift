@@ -1,4 +1,9 @@
 import Cocoa
 
 var greeting = "Hello, playground"
-var 123 : Int 
+var a : Bool = true
+if a == true{
+    print("abc")
+}else{
+    print("bcd")
+}
